@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T02:01:44.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oqEPM0a0oCAkxBh-J0pp" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T02:15:48.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NC2ysNfCYacGbtHCFo0Y" version="21.1.8" type="github">
   <diagram name="第 1 页" id="dGNZL8i-ddtaKk-ClNdq">
     <mxGraphModel dx="1987" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -73,14 +73,8 @@
         <mxCell id="7nSuKPrInUCEftZ7_m8U-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="670" width="1450" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-47" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-47" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="260" y="680" width="270" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-47">
-          <mxGeometry width="270" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-45" value="采集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-47">
-          <mxGeometry x="105" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7nSuKPrInUCEftZ7_m8U-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="550" y="680" width="270" height="140" as="geometry" />
@@ -91,14 +85,17 @@
         <mxCell id="7nSuKPrInUCEftZ7_m8U-51" value="发现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-49">
           <mxGeometry x="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="680" width="270" height="140" as="geometry" />
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-91" value="阈值告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-49">
+          <mxGeometry x="10" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-52">
-          <mxGeometry width="270" height="140" as="geometry" />
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-92" value="波动告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-49">
+          <mxGeometry x="140" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-54" value="定位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-52">
-          <mxGeometry x="105" width="60" height="30" as="geometry" />
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-93" value="智能告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-49">
+          <mxGeometry x="10" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-94" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-49">
+          <mxGeometry x="140" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nSuKPrInUCEftZ7_m8U-55" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1130" y="680" width="270" height="140" as="geometry" />
@@ -168,6 +165,42 @@
         </mxCell>
         <mxCell id="7nSuKPrInUCEftZ7_m8U-70" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-71">
           <mxGeometry x="350" y="100" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-90" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="680" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-90">
+          <mxGeometry width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-54" value="定位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-90">
+          <mxGeometry x="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-74" value="趋势分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-90">
+          <mxGeometry x="10" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-75" value="链路分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-90">
+          <mxGeometry x="10" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-76" value="代码反解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-90">
+          <mxGeometry x="140" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-77" value="分布分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-90">
+          <mxGeometry x="140" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-87" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-90">
+          <mxGeometry x="10" y="110" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-98" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="680" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-98">
+          <mxGeometry width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-45" value="采集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-98">
+          <mxGeometry x="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-95" value="SLS-RUM（前端性能监控sdk）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-98">
+          <mxGeometry x="10" y="30" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
