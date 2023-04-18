@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T02:20:55.431Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Js9zLEccp4i6LRbsaABZ" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T02:25:11.853Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ScqGKu0ENyrOcBtwep-L" version="21.1.8" type="github">
   <diagram name="第 1 页" id="dGNZL8i-ddtaKk-ClNdq">
     <mxGraphModel dx="1987" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -168,6 +168,27 @@
         </mxCell>
         <mxCell id="7nSuKPrInUCEftZ7_m8U-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-15">
           <mxGeometry x="180" width="1450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-101" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-15">
+          <mxGeometry x="190" y="10" width="500" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-102" value="大盘可视化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-15">
+          <mxGeometry x="402.5" y="10" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-103" value="性能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-15">
+          <mxGeometry x="200" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-104" value="JS Error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-15">
+          <mxGeometry x="310" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-105" value="API Error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-15">
+          <mxGeometry x="432.5" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-106" value="资源Error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-15">
+          <mxGeometry x="560" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-108" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-15">
+          <mxGeometry x="200" y="100" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nSuKPrInUCEftZ7_m8U-16" value="解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="120" height="160" as="geometry" />
