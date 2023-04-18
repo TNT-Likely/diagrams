@@ -1,21 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T02:53:12.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="V9C71aasU7Z5ldGD2CG4" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T02:56:06.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qPyaELIu6PzSo_ODkrCQ" version="21.1.8" type="github">
   <diagram name="第 1 页" id="dGNZL8i-ddtaKk-ClNdq">
     <mxGraphModel dx="1987" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="280" width="1470" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-19" value="" style="group" vertex="1" connectable="0" parent="7nSuKPrInUCEftZ7_m8U-18">
-          <mxGeometry width="1470" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-20" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-19">
-          <mxGeometry width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7nSuKPrInUCEftZ7_m8U-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-19">
-          <mxGeometry x="180" width="1290" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="7nSuKPrInUCEftZ7_m8U-8" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="880" width="120" height="150" as="geometry" />
         </mxCell>
@@ -285,6 +273,12 @@
         </mxCell>
         <mxCell id="7nSuKPrInUCEftZ7_m8U-99" value="&lt;font color=&quot;#330000&quot;&gt;GitHub OpenApi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7nSuKPrInUCEftZ7_m8U-100">
           <mxGeometry x="659.5496551724138" y="15" width="133.24137931034483" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-20" value="业务域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7nSuKPrInUCEftZ7_m8U-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="1450" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
