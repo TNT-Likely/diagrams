@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T11:19:51.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Us_8kB7ZIM2ZCe1AZCd1" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T11:21:57.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZKk1hRDbM0LCjoVCpYLM" version="21.2.1" type="github">
   <diagram name="第 1 页" id="lsf1Tn1yKAUuwyzkUpje">
     <mxGraphModel dx="1987" dy="-199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -224,13 +224,22 @@
           <mxGeometry x="695" y="1630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yyzTw-pzWx6IPQzIJ-rm-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1660" width="145" height="210" as="geometry" />
+          <mxGeometry x="525" y="1660" width="165" height="210" as="geometry" />
         </mxCell>
         <mxCell id="yyzTw-pzWx6IPQzIJ-rm-80" value="总览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="1660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yyzTw-pzWx6IPQzIJ-rm-81" value="基础-通用筛选器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1690" width="120" height="30" as="geometry" />
+          <mxGeometry x="540" y="1690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyzTw-pzWx6IPQzIJ-rm-82" value="基础-趋势分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1735" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yyzTw-pzWx6IPQzIJ-rm-83" value="fcp/lcp等通用指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1783" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yyzTw-pzWx6IPQzIJ-rm-84" value="保存成功率等自定义指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1830" width="140" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
