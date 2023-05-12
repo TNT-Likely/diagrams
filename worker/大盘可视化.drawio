@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T08:16:31.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kxOrtlP2wn-k1JB6qsEa" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T08:24:15.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2Db46nX0rmwdBOMkHLTp" version="21.2.1" type="github">
   <diagram name="第 1 页" id="lsf1Tn1yKAUuwyzkUpje">
     <mxGraphModel dx="1987" dy="-151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
         <mxCell id="yyzTw-pzWx6IPQzIJ-rm-84" value="保存成功率等自定义指标" style="rounded=0;whiteSpace=wrap;html=1;" parent="pWlYmW0MUSd6FvhuZP3i-19" vertex="1">
           <mxGeometry x="30" y="200" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="yyzTw-pzWx6IPQzIJ-rm-85" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="pWlYmW0MUSd6FvhuZP3i-19" vertex="1">
+        <mxCell id="yyzTw-pzWx6IPQzIJ-rm-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="pWlYmW0MUSd6FvhuZP3i-19" vertex="1">
           <mxGeometry x="203" y="30" width="165" height="220" as="geometry" />
         </mxCell>
         <mxCell id="yyzTw-pzWx6IPQzIJ-rm-86" value="列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pWlYmW0MUSd6FvhuZP3i-19" vertex="1">
@@ -258,6 +258,27 @@
         </mxCell>
         <mxCell id="pWlYmW0MUSd6FvhuZP3i-17" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pWlYmW0MUSd6FvhuZP3i-19">
           <mxGeometry x="220" y="158" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWlYmW0MUSd6FvhuZP3i-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1630" width="430" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pWlYmW0MUSd6FvhuZP3i-21" value="JS Error" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="915" y="1630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWlYmW0MUSd6FvhuZP3i-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1660" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pWlYmW0MUSd6FvhuZP3i-23" value="总览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWlYmW0MUSd6FvhuZP3i-38" value="基础-通用筛选器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="1690" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWlYmW0MUSd6FvhuZP3i-39" value="基础-趋势分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="1738" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWlYmW0MUSd6FvhuZP3i-40" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="1788" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
