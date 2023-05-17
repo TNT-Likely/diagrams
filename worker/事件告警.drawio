@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T10:50:07.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6VWOEDLYWLqvUSuDHS0y" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T10:50:33.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1NkIFoXkWJ7gtQgereDo" version="21.3.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1987" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,6 +107,9 @@
         <mxCell id="ICqTSWxqrPIGgdlom32U-2" value="Notify" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" y="560" width="1250" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="ICqTSWxqrPIGgdlom32U-33" value="发送通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ICqTSWxqrPIGgdlom32U-2">
+          <mxGeometry x="920" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="ICqTSWxqrPIGgdlom32U-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="ICqTSWxqrPIGgdlom32U-5" target="ICqTSWxqrPIGgdlom32U-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -133,6 +136,9 @@
           <mxGeometry x="-0.3556" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ICqTSWxqrPIGgdlom32U-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="ICqTSWxqrPIGgdlom32U-30" target="ICqTSWxqrPIGgdlom32U-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
