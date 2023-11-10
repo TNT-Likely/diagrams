@@ -1,17 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T09:12:15.931Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="84wWdli4dEqWwtFuiMOs" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T09:12:50.160Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rFrEeQmaOb1_Z34_JjCv" version="21.7.1" type="github">
   <diagram name="第 1 页" id="Xhgq0PyVB4QS4eHgWzg1">
     <mxGraphModel dx="2754" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tT69yiJBIpTcLskg9BEr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="120" width="940" height="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="CsqYkCtor6hZRRwLj2lS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tT69yiJBIpTcLskg9BEr-3" target="tT69yiJBIpTcLskg9BEr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tT69yiJBIpTcLskg9BEr-3" value="编辑器初始化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="30" width="360" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CsqYkCtor6hZRRwLj2lS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tT69yiJBIpTcLskg9BEr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tT69yiJBIpTcLskg9BEr-4" value="编辑器 anychange" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="30" width="400" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tT69yiJBIpTcLskg9BEr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="140" width="940" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="tT69yiJBIpTcLskg9BEr-2" value="敏感词检测 sdk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-60" y="150" width="90" height="20" as="geometry" />
