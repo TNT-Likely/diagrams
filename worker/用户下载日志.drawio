@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T08:08:56.368Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bZoXl006Dk28QZ1PSUBW" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T08:12:12.779Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YFzfHSZFwyL0MvV_yeic" version="22.1.3" type="github">
   <diagram name="第 1 页" id="MaY7lFP44XbF7rmGvObK">
     <mxGraphModel dx="2751" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,11 +40,31 @@
         <mxCell id="TI0HXSMudwwRD8fvwW63-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TI0HXSMudwwRD8fvwW63-13" source="TI0HXSMudwwRD8fvwW63-5" target="TI0HXSMudwwRD8fvwW63-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TI0HXSMudwwRD8fvwW63-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TI0HXSMudwwRD8fvwW63-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="340" width="1050" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="TI0HXSMudwwRD8fvwW63-15" value="下载日志 sdk@design/download-logs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry y="340" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TI0HXSMudwwRD8fvwW63-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TI0HXSMudwwRD8fvwW63-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TI0HXSMudwwRD8fvwW63-8" target="TI0HXSMudwwRD8fvwW63-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="390" />
+              <mxPoint x="205" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TI0HXSMudwwRD8fvwW63-18" value="权限点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TI0HXSMudwwRD8fvwW63-19" value="request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TI0HXSMudwwRD8fvwW63-20" value="初始化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
