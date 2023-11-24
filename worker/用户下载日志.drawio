@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T08:07:41.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F8a_19V_mSDu7aLsccAR" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T08:08:56.368Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bZoXl006Dk28QZ1PSUBW" version="22.1.3" type="github">
   <diagram name="第 1 页" id="MaY7lFP44XbF7rmGvObK">
     <mxGraphModel dx="2751" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,17 +25,26 @@
         <mxCell id="TI0HXSMudwwRD8fvwW63-6" value="编辑器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="TI0HXSMudwwRD8fvwW63-7">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TI0HXSMudwwRD8fvwW63-8" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="440" height="70" as="geometry" />
+        <mxCell id="TI0HXSMudwwRD8fvwW63-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="230" width="960" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI0HXSMudwwRD8fvwW63-9" value="下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="230" width="440" height="70" as="geometry" />
+        <mxCell id="TI0HXSMudwwRD8fvwW63-8" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TI0HXSMudwwRD8fvwW63-13">
+          <mxGeometry width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI0HXSMudwwRD8fvwW63-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TI0HXSMudwwRD8fvwW63-5" target="TI0HXSMudwwRD8fvwW63-8">
+        <mxCell id="TI0HXSMudwwRD8fvwW63-9" value="下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TI0HXSMudwwRD8fvwW63-13">
+          <mxGeometry x="520" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TI0HXSMudwwRD8fvwW63-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TI0HXSMudwwRD8fvwW63-13" source="TI0HXSMudwwRD8fvwW63-5" target="TI0HXSMudwwRD8fvwW63-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TI0HXSMudwwRD8fvwW63-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TI0HXSMudwwRD8fvwW63-5" target="TI0HXSMudwwRD8fvwW63-9">
+        <mxCell id="TI0HXSMudwwRD8fvwW63-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TI0HXSMudwwRD8fvwW63-13" source="TI0HXSMudwwRD8fvwW63-5" target="TI0HXSMudwwRD8fvwW63-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TI0HXSMudwwRD8fvwW63-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="340" width="1050" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="TI0HXSMudwwRD8fvwW63-15" value="下载日志 sdk@design/download-logs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry y="340" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
